@@ -17,7 +17,7 @@ To create a new project, run the following command:
 
 <Tab label="npm">
 
-<Terminal cmd={['$ npx create-expo-app@latest']} />
+<Terminal cmd={['$ npx create-expo-app@latest'])Insändarproffset
 
 </Tab>
 
